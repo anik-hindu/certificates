@@ -29,4 +29,4 @@ My focus is not only completing courses but applying the knowledge through real-
 📄 Certificate:
 <img src="./images/advanced-javascript.jpg" width="700">
 
-📄 **Full Certificate:** [PDF](./scrimba/advanced-javascript.pdf)
+📄 **Full Certificate:** [PDF](./scrimba/Advanced%20JavaScript%20Tutorial_%20Learn%20to%20master%20complex%20concepts%20through%20this%20hands-on%20course%20with%20Tom%20Chant.pdf)
